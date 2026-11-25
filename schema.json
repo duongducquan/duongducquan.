@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Dương Đức Quân",
+  "alternateName": ["Duong Duc Quan", "Dương Đức Quân official"],
+  "url": "https://duongducquan.com/",
+  "nationality": "Việt Nam",
+  "jobTitle": "Developer & Creator",
+  "image": "https://duongducquan.com/logo-duongducquan.jpg",
+  "description": "Dương Đức Quân - giới thiệu bản thân, kỹ năng và các dự án.",
+  "knowsLanguage": ["vi", "en"],
+  "sameAs": [
+    "https://www.facebook.com/DuongDucQuann/",
+    "https://youtu.be/nl6bbzVC05A",
+    "https://github.com/duongducquan",
+    "https://dev.to/duongducquan",
+    "https://duongducquan.blogspot.com/",
+    "https://www.linkedin.com/in/duongducquan/"
+  ]
+}

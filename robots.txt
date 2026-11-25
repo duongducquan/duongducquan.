@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Bot AI (tùy chọn)
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://duongducquan.com/sitemap.xml

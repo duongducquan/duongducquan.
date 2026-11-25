@@ -1,0 +1,20 @@
+/* TEAM */
+Website chủ sở hữu: Dương Đức Quân (Duong Duc Quan)
+Vai trò: Developer & Creator
+Quốc gia: Việt Nam
+Liên hệ: contact@duongducquan.com
+
+/* SITE */
+Tên: Dương Đức Quân - Trang cá nhân chính thức
+Mục đích: Giới thiệu bản thân, kỹ năng, khoảnh khắc và liên hệ
+Ngôn ngữ: Tiếng Việt (vi-VN)
+Công nghệ: HTML5, CSS3, JavaScript thuần (không framework)
+Chuẩn SEO: Open Graph, Twitter Card, Schema.org JSON-LD Person + WebSite
+
+/* SOCIAL */
+Facebook: https://www.facebook.com/DuongDucQuann/
+YouTube: https://youtu.be/nl6bbzVC05A
+GitHub: https://github.com/duongducquan
+Dev.to: https://dev.to/duongducquan
+Blogger: https://duongducquan.blogspot.com/
+LinkedIn: https://www.linkedin.com/in/duongducquan/

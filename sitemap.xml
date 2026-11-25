@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://duongducquan.com/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://duongducquan.com/logo-duongducquan.jpg</image:loc>
+      <image:title>Dương Đức Quân</image:title>
+      <image:caption>Ảnh đại diện Dương Đức Quân</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.com/trung-hoc-pho-thong-long-truong-duongducquan.jpg</image:loc>
+      <image:title>Dương Đức Quân tại Trường THPT Long Trường</image:title>
+      <image:caption>Lễ kỷ niệm 44 năm Ngày Nhà giáo Việt Nam</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.com/khoanh-khac-long-truong-2.jpg</image:loc>
+      <image:title>Dương Đức Quân tại Lễ kỷ niệm Ngày Nhà giáo Việt Nam - THPT Long Trường</image:title>
+      <image:caption>Kỷ niệm 44 năm Ngày Nhà giáo Việt Nam (20/11/1982 - 20/11/2026)</image:caption>
+    </image:image>
+  </url>
+</urlset>
